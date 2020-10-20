@@ -51,7 +51,7 @@ Equivalently, we can write
 
 .. math::
 
-   \exists (P(x) \wedge \forall x' \; (P(x') \to x' = x)).
+   \exists x \; (P(x) \wedge \forall x' \; (P(x') \to x' = x)).
 
 Assuming :math:`\exists! x \; P(x)`, the following two statements are equivalent:
 
